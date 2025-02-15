@@ -1,5 +1,5 @@
 # 💫 About Me:
-'m Dipankar Kumar Pankaj, a web developer with expertise in Laravel, React JS, and Inertia JS. I build efficient, scalable web applications with a focus on seamless user experiences and clean, maintainable code. I enjoy working with modern web technologies, creating APIs, and optimizing both frontend and backend performance. Passionate about learning and staying up-to-date with industry trends, I’m always exploring new tools and techniques to deliver better solutions. Let’s build something awesome together!
+i'm Dipankar Kumar Pankaj, a web developer with expertise in Laravel, React JS, and Inertia JS. I build efficient, scalable web applications with a focus on seamless user experiences and clean, maintainable code. I enjoy working with modern web technologies, creating APIs, and optimizing both frontend and backend performance. Passionate about learning and staying up-to-date with industry trends, I’m always exploring new tools and techniques to deliver better solutions. Let’s build something awesome together!
 
 
 ## 🌐 Socials:
